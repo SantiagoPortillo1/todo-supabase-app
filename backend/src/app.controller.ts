@@ -1,3 +1,4 @@
+//Controlador que maneja la ruta raíz (/)
 import { Controller, Get } from '@nestjs/common';
 import { AppService } from './app.service';
 
